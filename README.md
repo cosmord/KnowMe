@@ -1,86 +1,294 @@
+---
+
+# **Alastor Dev**
+
+<!-- ═══════════════════════════════════════════════════════════════
+     A L A S T O R  ·  C O S M O R D
+     cybersecurity · android · privacy
+     privacy-first · offline-by-default · open source
+     ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,45:003b2f,100:00ff88&text=ALASTOR&fontSize=68&fontColor=00ff88&fontAlignY=34&desc=cosmord%20·%20Security%20Researcher%20·%20Android%20Developer%20·%20Privacy%20Advocate&descAlignY=56&descSize=17&animation=twinkling" width="100%" alt="banner"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00FF88&center=true&vCenter=true&random=false&width=640&lines=Computer+Engineering+Student;Cybersecurity+%26+Ethical+Hacking;Android+Development+%26+Mobile+Security;Privacy+is+a+Human+Right;Open+Source+Advocate;Breaking+systems+to+understand+them")](https://github.com/cosmord)
+
+[![Followers](https://img.shields.io/github/followers/cosmord?style=for-the-badge&logo=github&label=Followers&labelColor=0d1117&color=00ff88)](https://github.com/cosmord?tab=followers)
+[![Stars](https://img.shields.io/github/stars/cosmord?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&labelColor=0d1117&color=00ff88)](https://github.com/cosmord)
+[![Views](https://komarev.com/ghpvc/?username=cosmord&style=for-the-badge&color=00ff88&label=Profile+Views)](https://github.com/cosmord)
+[![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cosmord)
+
+<img src="https://skillicons.dev/icons?i=java,py,html,css,cpp&theme=dark" alt="languages"/>
+
+</div>
 
 ---
 
-# **Alastor Dev**  
-🔐 Cybersecurity passionate & Engineering Student | Open-Source Developer  
-📍 Ourense, España | 📧 alastorbusiness78@proton.me  
-🔗 [GitHub](https://github.com/LordAlastor78) | 🌐 [Portfolio](https://lordalastor78.github.io/KnowMe/)  
+## 🧑💻 About Me
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `~ whoami`
+
+```bash
+┌──(alastor㉿cosmord)-[~]
+└─$ whoami
+  cs-student → security-engineer (in progress)
+
+└─$ cat focus.txt
+  android-security · malware-analysis
+  reverse-engineering · privacy-tooling
+
+└─$ ls ./principles/
+  offline-by-default/   open-source/
+  audit-friendly/       zero-telemetry/
+
+└─$ sudo systemctl status make-internet-safer
+  ● active (running) — since day one
+```
+
+</td>
+<td width="50%" valign="top">
+
+### `Alastor.java`
+
+```java
+public final class Alastor {
+    public static final String ALIAS = "cosmord";
+    public static final String BASE  = "Spain 🇪🇸";
+
+    public String role    = "CS Student";        // 🎓
+    public String passion = "Cybersecurity";     // 🛡️
+    public String focus   = "Android Security";  // 📱
+
+    public boolean openSource = true;
+    public boolean telemetry  = false; // none. ever.
+
+    public String mission = "make the internet safer";
+}
+// TODO: graduate → change the world (a little)
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+🔭 Building **Irisbytes** · 🌱 Learning **Cryptography, Malware Analysis & RE** · 🎯 Goal: **F-Droid release** · ♾️ **Privacy is a human right**
+
+</div>
 
 ---
 
-## **Professional Summary / Perfil Profesional**  
-*(ES)* Estudiante de 1º de Ingeniería Informática con foco en **ciberseguridad ofensiva**, desarrollo de aplicaciones seguras y privacidad digital. Apasionado por el software open-source, la criptografía aplicada y la automatización con IA. Busco proyectos freelance pequeños para usuarios no técnicos que necesiten soluciones efectivas, seguras y bien documentadas.  
-*(EN)* First-year Computer Engineering student focused on **offensive cybersecurity**, secure application development, and digital privacy. Passionate about open-source software, applied cryptography, and AI-powered automation. Seeking small freelance projects for non-technical users needing effective, secure, and well-documented solutions.
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Tools & Environment**
+
+<img src="https://skillicons.dev/icons?i=windows,ubuntu,androidstudio,godot,gradle,vscode,vercel,vscodium,git,github,linux,maven,md,cmake,cloudflare&theme=dark" alt="tools"/>
+
+**Android-First**
+
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Material You](https://img.shields.io/badge/Material_Design_3-6750A4?style=flat-square&logo=materialdesign&logoColor=white)
+![ClamAV](https://img.shields.io/badge/ClamAV-00B27A?style=flat-square&logo=clamav&logoColor=white)
+
+</div>
 
 ---
 
-## **Education / Formación Académica**  
-**Grado en Ingeniería Informática** | Universidad de Vigo *(En curso, 1º año)*  
-- Enfoque autodidacta en: ciberseguridad, análisis de malware, criptografía aplicada y desarrollo Android seguro.  
-- Proyectos académicos y personales integrados en portfolio público.  
+## 📊 GitHub Analytics
 
-**Bachillerato** | Especialidad: Salud *(Finalizado)*  
-- Base científica y metodológica aplicada ahora a la resolución técnica de problemas.
+<div align="center">
 
----
+| ![Stats](https://github-readme-stats.vercel.app/api?username=cosmord&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmord&layout=donut&hide_border=true&langs_count=6&bg_color=0d1117&title_color=00ff88&text_color=ffffff) |
+|:---:|:---:|
 
-## **Technical Skills / Habilidades Técnicas**  
+![Streak](https://streak-stats.demolab.com?user=cosmord&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&border=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)
 
-| Área | Tecnologías / Herramientas |
-|------|---------------------------|
-| **Lenguajes** | Python (básico), Java/Kotlin (básico-intermedio), C++ (básico), TypeScript, Bash, HTML/CSS |
-| **Ciberseguridad** | Nmap, análisis de red, hardening (Windows/navegadores), criptografía aplicada (AES, ECDH, HKDF), conceptos de pentesting |
-| **Desarrollo** | Git/GitHub, virtualización, scripts de automatización, prompt engineering avanzado con IA, desarrollo Android (Kotlin/Jetpack Compose) |
-| **Sistemas** | Windows (avanzado), Linux (básico), Docker (conceptos), entornos de desarrollo multiplataforma |
-| **Metodologías** | Clean Architecture, MVVM, documentación técnica, licencias open-source (MIT, AGPL-3.0) |
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cosmord&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=003b2f&hide_border=true&title_color=00ff88)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=cosmord&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6)
+
+</div>
 
 ---
 
-## **Projects / Proyectos Destacados**  
+## 🛡️ Featured Project
 
-### 🔐 **WindChat** – Plataforma de mensajería E2EE *(TypeScript, Web Crypto, WebSocket)*  
-[GitHub](https://github.com/LordAlastor78/WindChat) | *[Ya disponible para uso personal]*  
-- Aplicación web auto-alojable con cifrado **end-to-end** usando Web Crypto API (ECDH P-256, AES-256-GCM, HKDF-SHA-256).  
-- Arquitectura cliente-servidor efímera: **sin persistencia de mensajes**, sin metadatos almacenados.  
-- Soporte para salas grupales (≤10 usuarios), señalización de llamadas y fallback WebSocket/WebRTC.  
-- *Impacto*: Solución privacy-first para comunicación segura sin dependencia de terceros. Temporal, sin guardado de mensajes para una privacidad máxima. Comparte tu información y conversaciones sin preocupaciones.  
+<div align="center">
 
-### 📥 **MooviDump Enhanced** – Descargador automático para Moodle *(Python, GUI, PowerShell)*  
-[GitHub](https://github.com/LordAlastor78/moovidumpEnhanced)  
-- Herramienta CLI/GUI para exportar recursos de cursos Moodle con organización automática por tema/módulo.  
-- Funcionalidades: reintentos HTTP, sanitización de nombres, modo `--force`, generación de `.exe` para Windows.  
-- *Impacto*: Ahorro de tiempo para estudiantes que usan la plataforma moodle ( moovi ); código documentado y fácil de adaptar.  
+### [**IRISBYTES**](https://github.com/cosmord/Irisbytes) — Advanced Malware Scanner for Android (coming soon)
 
-### 🛡️ **Haztya** – Escáner de malware offline para Android *(Kotlin/Java, YARA/ClamAV, en desarrollo)*  
-*(Proyecto principal en curso – no publicado aún)*  
-- Motor de detección basado en firmas comportamentales y heurística, 100% offline y privacy-first.  
-- Arquitectura modular preparada para integración con bases de datos de amenazas actualizables.  
+[![Version](https://img.shields.io/badge/Version-v1.0.0-00FF88?style=for-the-badge&logo=android&logoColor=white)](https://github.com/cosmord/Irisbytes)
+[![License](https://img.shields.io/badge/License-AGPL--3.0-red?style=for-the-badge)](https://github.com/cosmord/Irisbytes/blob/main/LICENSE)
+[![Android](https://img.shields.io/badge/Android-7.0+-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/cosmord/Irisbytes)
+[![Privacy](https://img.shields.io/badge/Privacy-100%25_Offline-00A8E8?style=for-the-badge)](https://github.com/cosmord/Irisbytes)
 
-### 🔍 **Antimalware Experimental** – Prototipo en Kotlin/Java  
-- Aplicación Android para análisis estático básico de APKs y detección de patrones sospechosos.  
-- Enfoque educativo en técnicas de reverse engineering ligero y análisis de permisos.  
+</div>
+
+> 🔐 **100% offline malware scanner for Android** — Privacy first, no tracking, fully auditable code.
+> Built with *security-by-design* principles and a modular architecture meant to be read, not just run.
+
+<details>
+<summary><strong>✨ Key Features</strong></summary>
+
+- 🧠 **ClamAV engine** integration for signature-based detection
+- 🔒 **Zero telemetry, zero cloud** — works fully offline, always
+- 📦 **Modular architecture** designed for easy third-party auditing
+- 🎨 **Material You** design with adaptive dark/light themes
+- ⚡ Real-time scanning with **minimal resource usage**
+
+</details>
+
+<div align="center">
+<sub><i>Why offline? Because sending your app list to "the cloud" to check for malware defeats the entire point.</i></sub>
+</div>
+
+---
+
+## 📦 Projects
+
+<div align="center">
+
+| [![WindChat](https://github-readme-stats.vercel.app/api/pin/?username=cosmord&repo=WindChat&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff)](https://github.com/cosmord/WindChat) | [![KnowMe](https://github-readme-stats.vercel.app/api/pin/?username=cosmord&repo=KnowMe&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff)](https://github.com/cosmord/KnowMe) |
+|:---:|:---:|
+| [![moovidump](https://github-readme-stats.vercel.app/api/pin/?username=cosmord&repo=moovidumpEnhanced&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff)](https://github.com/cosmord/moovidumpEnhanced) | [![EasyRoot](https://github-readme-stats.vercel.app/api/pin/?username=cosmord&repo=EasyRoot&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff)](https://github.com/cosmord/EasyRoot) |
+
+</div>
+
+| Project | Description | Stack | Status |
+|---------|-------------|-------|:------:|
+| [**WindChat**](https://github.com/cosmord/WindChat) | E2EE ephemeral web chat — the key never leaves *your* machine | TypeScript · WebRTC | 📦 Archived |
+| [**EasyLinux**](https://github.com/cosmord/EasyLinux) | One-shot dev-environment setup & customization for Linux | Shell | 🟢 Stable |
+| [**EasyCPlusPlusInstall**](https://github.com/cosmord/EasyCPlusPlusInstall) | Automated GCC toolchain installer (MSYS2 + pacman) | Batch | 🟢 Stable |
+| [**moovidumpEnhanced**](https://github.com/cosmord/moovidumpEnhanced) | Auto-download Moodle course resources with smart organization | Python · PowerShell | 🟢 Stable |
+| [**EasyRoot**](https://github.com/cosmord/EasyRoot) | Script to extract patched Magisk image, reboot to fastboot & flash boot partitions | Batch · Shell | 🟢 Stable |
+| [**WaEnhancerUpdater**](https://github.com/cosmord/WaEnhancerUpdater) | Compatibility checker & updater for WaEnhancer module | Python · Batch | 🟢 Stable |
+| [**CubirdsProjectAEDI**](https://github.com/cosmord/CubirdsProjectAEDI) | University project — CuBirds card game (data structures & algorithms) | Java · Maven | ✅ Shipped |
+| [**FakeTraveler**](https://github.com/cosmord/FakeTraveler) 🔱 | Mock location provider for Android | Java | 🔱 Fork |
+| [**WingetFix**](https://github.com/cosmord/WingetFix) | Repair / reinstall winget when it breaks | PowerShell | 📦 Archived |
+
+> 🔒 **In private development:** `NoirSec` — encrypted overlay messenger that routes payloads through any messaging app via steganography · `Stellar` — serverless, local-first P2P chat (Signal Protocol + WebRTC + SQLCipher, zero-knowledge). They go public when they're ready.
 
 ---
 
-## **Languages / Idiomas**  
-- **Español**: Nativo  
-- **Inglés**: B1 (Intermedio) – Lectura y comprensión  fluida.  
+## 🚀 2026 Roadmap
+
+```text
+🚀  Stellar   V1.0 LAUNCH          ████████░░   80%   🔴 HIGH
+📱  Winsurgery                     ███████░░░   30%   🔴 HIGH
+🤝  OSS SECURITY CONTRIBUTIONS     █████░░░░░   50%   🟡 MED
+🔬  MALWARE ANALYSIS MASTERY       ███░░░░░░░   35%   🟡 MED
+🧠  CONTINUOUS LEARNING            ∞∞∞∞∞∞∞∞∞∞    ∞    🟢 ALWAYS
+```
 
 ---
 
-## **Additional / Información Complementaria**  
-✅ **Disponibilidad**: Freelance remoto, proyectos pequeños (auditorías básicas, hardening, scripts de automatización, asesoría en privacidad).  
-✅ **Filosofía**: "Privacy by design", código abierto, transparencia y documentación clara.  
-✅ **En aprendizaje activo**: Análisis de malware, reverse engineering, frameworks de seguridad (OWASP, MITRE ATT&CK).  
-✅ **Licencias**: Todos mis proyectos usan licencias open-source (MIT, AGPL-3.0) con código 100% original.  
+## 🤝 Contributing
+
+<details>
+<summary><strong>🤝 How to contribute to any of my repositories</strong></summary>
+
+<br>
+
+> *"In cybersecurity, knowledge is your best weapon. Share what you learn."*
+
+Contributions are **always welcome**! 🙌 Found a bug? Have an idea? Want to collaborate on security research?
+
+1. ⭐ Star the repository
+2. 🍴 Fork the project
+3. 🔧 Create your feature branch → `git checkout -b feature/AmazingFeature`
+4. 💬 Commit your changes → `git commit -m 'feat: add AmazingFeature'`
+5. 🚀 Push to the branch → `git push origin feature/AmazingFeature`
+6. 🔓 Open a Pull Request
+
+📌 All contributions follow the [Conventional Commits](https://www.conventionalcommits.org/) specification.
+
+</details>
 
 ---
-## **Contact Information / Información de Contacto**
 
-🔗 [GitHub](https://github.com/LordAlastor78) | 
-🌐[Portfolio](https://lordalastor78.github.io/KnowMe/)
-📧 [Ko-fi](https://ko-fi.com/alastor78) | 
+## 📜 Licensing Philosophy
 
-📍 Ourense, España
+<div align="center">
+
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg?style=for-the-badge)](https://www.gnu.org/licenses/agpl-3.0)
+
+</div>
+
+| Principle | Implementation |
+|-----------|---------------|
+| ✅ **Transparent Dependencies** | All third-party libraries clearly documented |
+| ✅ **Audit-Friendly** | Code structure designed for security review |
+| ✅ **Privacy-First** | No telemetry, no tracking, fully offline |
+| ✅ **Secure Development** | Secure-by-design from commit zero, not patched later |
+| ✅ **Copyleft Licensing** | AGPL-3.0 — maximum freedom, forever |
+| ✅ **Actually Useful** | Real-world value, not résumé-driven development |
 
 ---
+
+## 💡 Philosophy
+
+> *"Privacy is not something you should ask for. It's a right you must defend."*
+
+> *"Open source makes the world safer. Transparency is the best security."*
+
+> *"In cybersecurity, knowledge is your best weapon. Share what you learn."*
+
+<div align="center">
+
+![Quote Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=00FF88&center=true&vCenter=true&width=520&height=60&lines=Code+with+purpose.+Secure+by+design.;Trust+is+verified%2C+not+granted.;If+it+phones+home%2C+it`'s+not+yours.)
+
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-cosmord-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cosmord)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-alastorbusiness78-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:alastorbusiness78@proton.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-KnowMe-00FF88?style=for-the-badge&logo=googlechrome&logoColor=black)](https://cosmord.github.io/KnowMe/)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_my_work-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/alastor78)
+
+<a href="https://ko-fi.com/alastor78" target="_blank">
+  <img height="42" src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" alt="Buy Me a Coffee at ko-fi.com"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<details>
+<summary><strong>🎮 Bonus: Arcade Stats</strong></summary>
+
+<br>
+
+<div align="center">
+  <img src="https://pacman.abozanona.me?username=cosmord" alt="Pac-Man Contribution Stats"/>
+</div>
+
+</details>
+
+</div>
+
+---
+
+<div align="center">
+
+*Made with ❤️, ☕ and **zero telemetry** by **Alastor** (cosmord)* · © 2026
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00ff88,50:003b2f,100:0d1117" width="100%" alt="footer"/>

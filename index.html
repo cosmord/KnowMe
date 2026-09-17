@@ -133,7 +133,7 @@
                 0deg,
                 transparent,
                 transparent 2px,
-                rgba(0, 0, 0, 0.03) 2px,
+                rgba(0, 255, 136, 0.02) 2px,
                 rgba(0, 0, 0, 0.03) 4px
             );
         }
@@ -937,7 +937,7 @@
         }
 
         .tag:hover {
-            background: rgba(0, 255, 136, 0.15);
+            background: rgba(0, 255, 136, 0.1);
             border-color: rgba(0, 255, 136, 0.4);
             transform: translateY(-2px);
         }
@@ -2301,12 +2301,7 @@
         let isTyping = true;
         let isDeleting = false;
 
-        const typingData = [
-            { cmd: 'nmap -sV -A --script=vuln target.com', output: 'Scanning 1000 ports... 23 open services found. Vulnerabilities detected: 3' },
-            { cmd: 'apktool d suspicious_app.apk', output: 'Decompiling APK... Analyzing AndroidManifest.xml... Malicious permissions found.' },
-            { cmd: 'gdb ./binary_target', output: 'GNU gdb loaded. Breakpoint set at main(). Analyzing memory layout...' },
-            { cmd: 'python3 haztya_scan.py --deep /system', output: 'Deep scan initiated... Heuristic engine loaded. 0 threats found. System clean.' }
-        ];
+        const typingData = translations[currentLanguage === 'en' ? 'en' : 'es'].typing.map(t => ({ cmd: t.cmd, output: t.output }));
 
         function typeEffect() {
             const current = typingData[cmdIndex];

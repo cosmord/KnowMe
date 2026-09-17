@@ -21,11 +21,11 @@
             --accent: #00ff88;
             --accent2: #00e67a;
             --accent3: #00cc6a;
-            --glow: rgba(0, 255, 136, 0.5);
-            --glow2: rgba(0, 255, 136, 0.12);
-            --border: rgba(0, 255, 136, 0.18);
+            --glow: rgba(0, 255, 136, 0.3);
+            --glow2: rgba(0, 255, 136, 0.08);
+            --border: rgba(0, 255, 136, 0.15);
             --glass-blur: blur(12px);
-            --glass-bg: rgba(13, 17, 23, 0.35);
+            --glass-bg: rgba(13, 17, 23, 0.32);
         }
 
         * {
@@ -2413,18 +2413,29 @@
             }
             if (isLight) {
                 document.documentElement.style.setProperty('--bg', '#f5f5f5');
-                document.documentElement.style.setProperty('--card', '#ffffff');
+                document.documentElement.style.setProperty('--bg2', '#e8f0e8');
+                document.documentElement.style.setProperty('--card', 'rgba(255, 255, 255, 0.7)');
+                document.documentElement.style.setProperty('--card2', 'rgba(245, 250, 245, 0.6)');
+                document.documentElement.style.setProperty('--card-hover', 'rgba(235, 245, 235, 0.8)');
+                document.documentElement.style.setProperty('--glass-bg', 'rgba(255, 255, 255, 0.25)');
+                document.documentElement.style.setProperty('--glass-blur', 'blur(15px)');
                 document.documentElement.style.setProperty('--text', '#1a1a1a');
                 document.documentElement.style.setProperty('--text2', '#555555');
-                document.documentElement.style.setProperty('--card2', '#e8e8e8');
-                document.documentElement.style.setProperty('--border', 'rgba(0,255,136,0.2)');
+                document.documentElement.style.setProperty('--accent2', '#00cc6a');
+                document.documentElement.style.setProperty('--border', 'rgba(0,255,136,0.25)');
+                document.documentElement.style.setProperty('--glow', 'rgba(0,255,136,0.2)');
+                document.documentElement.style.setProperty('--glow2', 'rgba(0,255,136,0.1)');
             } else {
-                document.documentElement.style.setProperty('--bg', '#0a0a0a');
-                document.documentElement.style.setProperty('--card', '#0d1117');
+                document.documentElement.style.setProperty('--bg', '#050508');
+                document.documentElement.style.setProperty('--bg2', '#0a0a0f');
+                document.documentElement.style.setProperty('--card', 'rgba(13, 17, 23, 0.45)');
+                document.documentElement.style.setProperty('--card2', 'rgba(20, 26, 35, 0.40)');
+                document.documentElement.style.setProperty('--card-hover', 'rgba(25, 33, 44, 0.60)');
                 document.documentElement.style.setProperty('--text', '#c9d1d9');
                 document.documentElement.style.setProperty('--text2', '#8b949e');
-                document.documentElement.style.setProperty('--card2', '#141a23');
-                document.documentElement.style.setProperty('--border', 'rgba(0,255,136,0.2)');
+                document.documentElement.style.setProperty('--border', 'rgba(0,255,136,0.15)');
+                document.documentElement.style.setProperty('--glow', 'rgba(0,255,136,0.3)');
+                document.documentElement.style.setProperty('--glow2', 'rgba(0,255,136,0.08)');
             }
         }
 
